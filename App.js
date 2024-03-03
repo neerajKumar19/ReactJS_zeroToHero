@@ -1,39 +1,51 @@
-import logo from './logo.svg';
 import './App.css';
+
 import Greet from './components/Greet';
 import GreetClass from './components/GreetClass'
+
 import WithJSX from './components/WithJSX';
 import WithoutJSX from './components/WithoutJSX';
+
 import FunctionalProps from './components/FunctionProps';
 import ClassProps from './components/ClassProps';
+
 import StateInClassComp from './components/StateInClassComp'
 import Counter from './components/Counter'
+
 import FunctionClick from './components/FunctionClick';
 import ClassClick from './components/ClassClick';
 import EventBind from './components/EventBind';
+
 import ParentComponent from './components/ParentComponent';
 import ChildComponent from './components/ChildComponent';
+
 import ParentLifting from './components/ParentLifting'
 import ChildLifting from './components/ChildLifting';
+
 import UserGreet from './components/UserGreet';
 import UserGreet2 from './components/UserGreet2';
 import UserGreet3 from './components/UserGreet3'
 import UserGreet4 from './components/UserGreet4';
+
 import NameList from './components/NameList'
 import PersonList from './components/PersonList';
+
 import IndexAsKey from './components/IndexAsKey';
 import StyleSheet from './components/StyleSheet';
 import InlineStyle from './components/InlineStyle';
+
 import Form from './components/Form';
 
 import MountingLifeCycleA from './LifeCycle Methods/MountingLifeCycleA';
 import UpdatingLifeCycleA from './LifeCycle Methods/UpdatingLifeCycleA'
+
 import FragmentDemo from './components/FragmentDemo';
 import Table from './components/Table';
 import ParentComp from './components/ParentComp';
 
 import MemoParent from './components/MemoParent'
 import RefsDemo from './components/RefsDemo';
+
 import RefParentFocusInput from './components/RefParentFocusInput';
 import ForwardRefParentInput from './components/ForwardRefParentInput'
 import PortalDemo from './components/PortalDemo';
