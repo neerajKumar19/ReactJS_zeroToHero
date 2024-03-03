@@ -326,7 +326,7 @@ function App() {
 
 
       {/* React Router DOM ================================================== */}
-      <MainPage /> 
+      {/* <MainPage /> */}
     </div >
   );
 }
